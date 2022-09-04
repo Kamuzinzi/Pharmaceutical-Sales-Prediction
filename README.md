@@ -1,5 +1,8 @@
 # Pharmaceutical-Sales-Prediction
-Pharmaceutical Sales Prediction across multiple stores
+Rossmann Store Sales
+
+Forecast sales using store, promotion, and competitor data
+
 
 # Overview
 
