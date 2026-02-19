@@ -1,7 +1,10 @@
 from setuptools import find_packages, setup
+
 setup(
-    name="src",
+    name="pharmaceutical-sales-prediction",
     packages=find_packages(),
     version="0.1.0",
-    author="Wyatt V. Sharber"
+    description="Rossmann store sales forecasting",
+    author="Kamuzinzi",
+    python_requires=">=3.8",
 )

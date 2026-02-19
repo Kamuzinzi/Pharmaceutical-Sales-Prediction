@@ -130,3 +130,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+mlruns/
+.dvc/cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
